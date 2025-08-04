@@ -89,8 +89,6 @@ streamlit run streamlit_app.py
 - Responsive design
 - Professional visualizations
 
-## 💼 Perfect for Your CV
-
 This project demonstrates:
 
 ### ✅ Technical Skills
@@ -215,5 +213,6 @@ After running this project, you'll have:
 ---
 
 **🚀 Ready to showcase your advanced data science skills!**
+
 
 *Built with ❤️ for data science excellence* 
