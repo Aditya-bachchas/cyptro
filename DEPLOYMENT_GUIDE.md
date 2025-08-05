@@ -144,10 +144,11 @@ import streamlit as st
 
 ## 📊 Your Live Dashboard
 
-Once deployed, your dashboard will be available at:
+Once deployed, your dashboard will be available at: 
+
+https://aditya-bachchas-xvqygjd9crcfjhbvlsynmg.streamlit.app/
 ```
-https://your-app-name.streamlit.app
-```
+[https://your-app-name.streamlit.app
 
 ## 💼 Perfect for Your CV
 
@@ -165,5 +166,6 @@ Your deployed dashboard demonstrates:
 4. **Share**: Add to your portfolio
 
 ---
+
 
 **🎉 Congratulations! Your Sales Analytics Dashboard is now live on the web!** 
