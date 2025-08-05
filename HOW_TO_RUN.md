@@ -22,7 +22,7 @@ Your project is now working! Here's what you have:
 ```bash
 python run_dashboard_only.py
 ```
-Then open: http://localhost:8501
+Then open: [http://localhost:8501](https://aditya-bachchas-xvqygjd9crcfjhbvlsynmg.streamlit.app/)
 
 ### Option 2: Generate New Data + Dashboard
 ```bash
@@ -84,5 +84,6 @@ Your comprehensive sales analytics project is now ready and demonstrates:
 - Advanced business analytics
 - Interactive dashboard development
 - Professional data science skills
+
 
 Perfect for showcasing on your CV! 🚀 
