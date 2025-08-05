@@ -4,7 +4,7 @@ A comprehensive data science project demonstrating advanced analytics capabiliti
 
 ## 📊 Live Demo
 
-**[View Live Dashboard](https://your-app-name.streamlit.app)**
+**[View Live Dashboard]([https://your-app-name.streamlit.app](https://aditya-bachchas-xvqygjd9crcfjhbvlsynmg.streamlit.app/))**
 
 ## 🎯 Project Overview
 
@@ -216,3 +216,4 @@ After running this project, you'll have:
 
 
 *Built with ❤️ for data science excellence* 
+
