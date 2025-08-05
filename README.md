@@ -169,7 +169,7 @@ dashboard.run_dashboard()
 
 ### Common Issues
 1. **Missing Dependencies**: Run `pip install -r requirements.txt`
-2. **Dashboard Not Loading**: Check if port 8501 is available
+2. **Dashboard Loading**: To view the cloud-hosted dashboard, sign in to the Streamlit app and feel free to explore it
 3. **Data Loading Issues**: Ensure data files are in the correct location
 
 ### Performance Tips
@@ -217,5 +217,6 @@ After running this project, you'll have:
 
 
 *Built with ❤️ for data science excellence* 
+
 
 
